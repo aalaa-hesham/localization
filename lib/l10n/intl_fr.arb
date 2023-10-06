@@ -1,0 +1,6 @@
+{
+  "@@locale": "fr",
+  "pageHomeListTitle": "bonjour tout le monde",
+  "pageHomeSampleCurrentDateTime": "Date: {date}  Temps: {time}"
+
+}
